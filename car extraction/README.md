@@ -4,6 +4,6 @@
 <h2>Extraction</h2>
 <br />
 <br />
-<imag src="https://user-images.githubusercontent.com/20774864/57217716-aa83a100-6ff3-11e9-8b56-805e559e2266.png"/>
+<img src="https://user-images.githubusercontent.com/20774864/57217716-aa83a100-6ff3-11e9-8b56-805e559e2266.png"/>
 <br />
 <br />
